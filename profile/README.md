@@ -1,4 +1,6 @@
-# ![ASUMANO](https://res.cloudinary.com/dwb6xcnxh/image/upload/v1723943928/logo-topbar-asumano-removebg-preview_dolfvw.png)
+<p align="center">
+  <img src="https://res.cloudinary.com/dwb6xcnxh/image/upload/v1723943928/logo-topbar-asumano-removebg-preview_dolfvw.png" alt="ASUMANO" width="200">
+</p>
 
 ## 🚀 **ASUMANO - La Revolución en Pedidos y Entregas Multilocales**
 
